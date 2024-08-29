@@ -27,3 +27,7 @@ Urban.Scooter: um serviço que permite alugar uma scooter elétrica por alguns d
 - Postman
 - Apidoc
 
+
+## Informações Adicionais
+
+<img src= "Imagem\Captura de tela 2024-08-28 230255.png">
